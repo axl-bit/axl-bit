@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Axel Villar</h1>
-<h3 align="center">a Full stack Dev, who loves programing <#</h3>
+<h3 align="center">a Full stack Dev, who loves programing <3</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=axl-bit&label=Profile%20views&color=0e75b6&style=flat" alt="axl-bit" /> </p>
 
